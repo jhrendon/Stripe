@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+  postgres:
+    image: postgres:17.4-alpine
+    container_name: postgres
+    ports:
+      - 7432:5432
+    volumes:
+      - postgres_db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=iot1834
+      - POSTGRES_USER=iotuser
+      - POSTGRES_DB=stripedb
+    restart: unless-stopped 
+
+
+volumes:
+  postgres_db:
+    external: true
+
+networks:
+  app-tier:

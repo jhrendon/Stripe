@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:DefaultConnection"
+    },
+    "postgresql1": {
+      "containerPorts": "7432:5432",
+      "secretStore": "LocalSecretsFile",
+      "containerName": "postgresql",
+      "containerImage": "postgres",
+      "resourceId": null,
+      "type": "postgresql.container",
+      "connectionId": "ConnectionStrings:PostgresDBConection"
+    }
+  }
+}
