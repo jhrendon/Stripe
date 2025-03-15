@@ -114,8 +114,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowBAAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:42:04.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:42:04.789Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "UsesCases\\user\\CancelSubscription.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:31:33.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:31:33.512Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T23:20:08.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:20:08.639Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "Views\\Home\\SubscriptionCancelled.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T23:20:05.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:20:05.85Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T23:19:31.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:19:31.045Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "Controllers\\Api\\WebhookController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwFUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T18:25:20.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T18:25:20.73Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T23:18:05.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:18:05.712Z"
             },
             {
               "$type": "Document",
@@ -205,8 +198,7 @@
               "RelativeToolTip": "UsesCases\\user\\SetPremium.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:03:18.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:03:18.994Z"
             },
             {
               "$type": "Document",
@@ -218,8 +210,7 @@
               "RelativeToolTip": "Extensions\\UserExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:16:46.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:16:46.22Z"
             },
             {
               "$type": "Document",
@@ -231,8 +222,7 @@
               "RelativeToolTip": "Controllers\\Api\\ShoppingCartController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:34:16.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T22:34:16.129Z"
             },
             {
               "$type": "Document",
@@ -244,8 +234,7 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-14T22:32:31.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T22:32:31.323Z"
             },
             {
               "$type": "Document",
@@ -257,8 +246,7 @@
               "RelativeToolTip": "UsesCases\\ShoppingCart\\GetShoppingCart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:15:17.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T21:15:17.08Z"
             },
             {
               "$type": "Document",
@@ -270,8 +258,7 @@
               "RelativeToolTip": "UsesCases\\ShoppingCart\\AddToShoppingCart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:13:52.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T21:13:52.615Z"
             },
             {
               "$type": "Document",
@@ -283,8 +270,7 @@
               "RelativeToolTip": "Controllers\\CheckoutController.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAqwFsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:10:21.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T21:10:21.204Z"
             },
             {
               "$type": "Document",
@@ -296,8 +282,7 @@
               "RelativeToolTip": "Data\\InMemory\\InMemoryShoppingCart.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:15:50.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T21:15:50.73Z"
             },
             {
               "$type": "Document",
@@ -309,8 +294,7 @@
               "RelativeToolTip": "UsesCases\\Products\\AddProduct.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:55:25.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:55:25.102Z"
             },
             {
               "$type": "Document",
@@ -322,8 +306,7 @@
               "RelativeToolTip": "Controllers\\Api\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:55:10.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:55:10.405Z"
             },
             {
               "$type": "Document",
@@ -335,8 +318,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T18:27:49.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T18:27:49.488Z"
             },
             {
               "$type": "Document",
@@ -348,8 +330,7 @@
               "RelativeToolTip": "..\\..\\..\\Users\\jhrendonDevNew\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-Stripe-2e46b1b5-cd5a-4607-80d9-6afdbaf78c50\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T19:23:40.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T19:23:40.486Z"
             }
           ]
         }
